@@ -1,0 +1,9 @@
+setuptools
+numpy
+scikit-learn
+matplotlib==2
+pandas
+-e git://github.com/mne-tools/mne-python.git#egg=mne
+IPython
+tqdm
+scikit-image
