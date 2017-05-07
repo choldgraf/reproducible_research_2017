@@ -1,0 +1,200 @@
+country,murder_rate,murder_rate_updated,description
+brazil,40974.0,2010,federal republic
+india,40752.0,2009,federal republic
+mexico,25757.0,2010,federal republic
+ethiopia,20239.0,2008,federal republic
+indonesia,18963.0,2008,republic
+nigeria,18422.0,2008,federal republic
+south africa,15940.0,2010,republic
+colombia,15459.0,2010,republic; executive 
+russia,14574.0,2010,federation
+pakistan,13860.0,2011,federal republic
+democratic republic of the congo,13558.0,2008,republic
+china,13410.0,2010,Communist state
+venezuela,13080.0,2010,federal republic
+united states,12996.0,2010,Constitution-based f
+uganda,11373.0,2008,republic
+cote d'ivoire,10801.0,2008,republic; multiparty
+tanzania,10357.0,2008,republic
+sudan,10028.0,2008,Federal republic rul
+kenya,7733.0,2008,republic
+honduras,7104.0,2011,democratic constitut
+guatemala,5681.0,2011,constitutional democ
+malawi,5039.0,2008,multiparty democracy
+philippines,4947.0,2009,republic
+burma,4800.0,2008,parliamentary govern
+zambia,4710.0,2008,republic
+el salvador,4308.0,2011,republic
+bangladesh,3988.0,2010,parliamentary democr
+cameroon,3700.0,2008,republic; multiparty
+north korea,3658.0,2008,Communist state one-
+ghana,3646.0,2008,constitutional democ
+angola,3426.0,2008,republic; multiparty
+thailand,3307.0,2011,constitutional monar
+peru,2969.0,2009,constitutional repub
+burkina faso,2786.0,2008,parliamentary republ
+ecuador,2638.0,2010,republic
+dominican republic,2513.0,2011,democratic republic
+ukraine,2356.0,2010,republic
+turkey,2320.0,2008,republican parliamen
+iran,2215.0,2009,theocratic republic
+guinea,2152.0,2008,republic
+mozambique,1925.0,2007,republic
+zimbabwe,1775.0,2008,parliamentary democr
+burundi,1726.0,2008,republic
+rwanda,1708.0,2008,republic; presidenti
+chad,1686.0,2008,republic
+madagascar,1588.0,2008,republic
+jamaica,1430.0,2010,constitutional parli
+kazakhstan,1418.0,2010,republic; authoritar
+argentina,1360.0,2009,republic
+vietnam,1346.0,2008,Communist state
+benin,1262.0,2008,republic
+south korea,1251.0,2010,republic
+central african republic,1240.0,2008,republic
+mali,1157.0,2008,republic
+kyrgyzstan,1072.0,2010,republic
+senegal,1027.0,2008,republic
+egypt,992.0,2009,republic
+yemen,990.0,2009,republic
+puerto rico,983.0,2010,commonwealth
+bolivia,884.0,2010,republic
+eritrea,879.0,2008,transitional governm
+papua new guinea,854.0,2008,constitutional parli
+sierra leone,837.0,2008,constitutional democ
+uzbekistan,831.0,2008,republic; authoritar
+nepal,818.0,2009,federal democratic r
+nicaragua,785.0,2010,republic
+lesotho,764.0,2010,parliamentary consti
+panama,759.0,2010,constitutional democ
+sri lanka,745.0,2010,republic
+paraguay,741.0,2010,constitutional repub
+united kingdom,722.0,2009,constitutional monar
+afghanistan,712.0,2008,Islamic republic
+germany,690.0,2010,federal republic
+haiti,689.0,2010,republic
+france,682.0,2009,republic
+togo,627.0,2008,republic under trans
+iraq,608.0,2008,parliamentary democr
+malaysia,604.0,2006,constitutional monar
+cuba,563.0,2009,Communist state
+canada,554.0,2010,a parliamentary demo
+niger,552.0,2008,republic
+chile,541.0,2010,republic
+italy,529.0,2010,republic
+costa rica,527.0,2010,democratic republic
+algeria,516.0,2008,republic
+japan,506.0,2009,a parliamentary gove
+mauritania,485.0,2008,military junta
+belarus,473.0,2009,"republic in name, al"
+trinidad and tobago,472.0,2010,parliamentary democr
+syria,463.0,2010,republic under an au
+cambodia,448.0,2005,multiparty democracy
+morocco,447.0,2010,constitutional monar
+poland,436.0,2010,republic
+romania,421.0,2009,republic
+spain,390.0,2010,parliamentary monarc
+liberia,371.0,2008,republic
+namibia,352.0,2004,republic
+guinea-bissau,294.0,2008,republic
+botswana,287.0,2009,parliamentary republ
+laos,279.0,2008,Communist state
+moldova,267.0,2010,republic
+saudi arabia,265.0,2007,monarchy
+mongolia,239.0,2010,parliamentary
+australia,229.0,2010,federal parliamentar
+lithuania,219.0,2010,parliamentary democr
+azerbaijan,206.0,2010,republic
+turkmenistan,203.0,2006,defines itself as a 
+gabon,200.0,2008,republic; multiparty
+uruguay,199.0,2011,constitutional repub
+georgia,187.0,2010,republic
+czech republic,181.0,2009,parliamentary democr
+belgium,180.0,2010,federal parliamentar
+netherlands,179.0,2009,constitutional monar
+libya,176.0,2008,operates under a tra
+greece,176.0,2010,parliamentary republ
+israel,159.0,2011,parliamentary democr
+bulgaria,147.0,2010,parliamentary democr
+tajikistan,143.0,2010,republic
+swaziland,141.0,2004,monarchy
+guyana,140.0,2010,republic
+somalia,138.0,2008,in the process of bu
+equatorial guinea,137.0,2008,republic
+hungary,133.0,2010,parliamentary democr
+belize,129.0,2010,parliamentary democr
+albania,127.0,2010,parliamentary democr
+portugal,124.0,2010,republic; parliament
+serbia,123.0,2010,republic
+finland,118.0,2010,republic
+tunisia,117.0,2008,republic
+jordan,100.0,2006,constitutional monar
+lebanon,95.0,2010,republic
+the bahamas,94.0,2010,constitutional parli
+sweden,91.0,2010,constitutional monar
+comoros,85.0,2008,republic
+slovakia,84.0,2009,parliamentary democr
+east timor,75.0,2008,republic
+estonia,70.0,2010,parliamentary republ
+latvia,70.0,2010,parliamentary democr
+croatia,62.0,2010,parliamentary democr
+kuwait,59.0,2009,constitutional emira
+bosnia and herzegovina,56.0,2010,emerging federal dem
+cape verde,56.0,2007,republic
+ireland,54.0,2010,"republic, parliament"
+austria,53.0,2010,federal republic
+switzerland,52.0,2010,formally a confedera
+denmark,47.0,2009,constitutional monar
+saint lucia,44.0,2010,parliamentary democr
+armenia,44.0,2010,republic
+virgin islands,43.0,2007,NA
+republic of macedonia,40.0,2010,parliamentary democr
+new zealand,39.0,2011,parliamentary democr
+united arab emirates,39.0,2006,federation with spec
+mauritius,33.0,2010,parliamentary democr
+barbados,31.0,2010,parliamentary democr
+norway,29.0,2010,constitutional monar
+djibouti,29.0,2008,republic
+saint vincent and the grenadines,25.0,2010,parliamentary democr
+suriname,24.0,2009,constitutional democ
+fiji,23.0,2004,republic
+montenegro,22.0,2009,republic
+saint kitts and nevis,20.0,2010,parliamentary democr
+solomon islands,19.0,2008,parliamentary democr
+cyprus,19.0,2009,republic
+oman,18.0,2008,monarchy
+hong kong,17.0,2011,limited democracy
+singapore,16.0,2011,parliamentary republ
+dominica,15.0,2010,parliamentary democr
+slovenia,15.0,2010,parliamentary republ
+qatar,13.0,2008,emirate
+luxembourg,12.0,2008,constitutional monar
+grenada,12.0,2010,parliamentary democr
+greenland,11.0,2009,parliamentary democr
+bermuda,8.0,2011,parliamentary; self-
+kiribati,7.0,2008,republic
+seychelles,7.0,2006,republic
+bhutan,7.0,2008,constitutional monar
+bahrain,6.0,2008,constitutional monar
+antigua and barbuda,6.0,2010,constitutional monar
+maldives,5.0,2008,republic
+cayman islands,5.0,2008,parliamentary democr
+macau,4.0,2010,limited democracy
+malta,4.0,2010,republic
+turks and caicos islands,3.0,2009,NA
+sao tome and principe,3.0,2008,republic
+vanuatu,2.0,2008,parliamentary republ
+samoa,2.0,2008,parliamentary democr
+british virgin islands,2.0,2006,NA
+brunei,2.0,2006,constitutional sulta
+nauru,1.0,2008,republic
+liechtenstein,1.0,2009,hereditary constitut
+andorra,1.0,2004,parliamentary democr
+anguilla,1.0,2008,NA
+guam,1.0,2007,NA
+tonga,1.0,2008,constitutional monar
+french polynesia,1.0,2009,parliamentary repres
+iceland,1.0,2009,constitutional repub
+montserrat,1.0,2008,NA
+monaco,0.0,2008,constitutional monar
+palau,0.0,2008,constitutional gover
